@@ -14,7 +14,7 @@
 
 ## 📸 Preview
 
-> *(Include a screenshot or GIF here if you have one)*
+> *(Include a screenshot or GIF [here](https://medium.com/@chaudharyyagh/building-a-powerful-custom-searchbarview-in-uikit-fully-configurable-and-reusable-a2a2c7cd98f1))*
 
 ## 📦 Installation
 
